@@ -1,4 +1,6 @@
-const iceCreamFlavours = ["chocolate", "vanilla", "cookies and cream", "rocky road", "strawberry"];
+//Array and how to change them
+
+onst iceCreamFlavours = ["chocolate", "vanilla", "cookies and cream", "rocky road", "strawberry"];
 console.log(iceCreamFlavours);
 
 iceCreamFlavours.push("root beer");
